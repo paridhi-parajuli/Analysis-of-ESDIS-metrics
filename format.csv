@@ -1,0 +1,31 @@
+Product ,Format,Remarks
+SENTINEL-1A_SLC,zip,
+SENTINEL-1B_SLC,zip,
+SENTINEL-1A_DP_GRD_HIGH,zip,
+MOD03,hdf,
+MYD03,hdf,
+SENTINEL-1B_DP_GRD_HIGH,zip,
+MOD021KM,hdf,
+MYD021KM,hdf,
+HLSS30,tif,
+MOD09GQ,hdf,
+GEDI02_A,h5,
+MOD09GA,hdf,
+HLSL30,tif,
+MYD06_L2,hdf,
+ATL03,h5,
+ECO1BGEO,h5,
+MOD13Q1,hdf,
+MOD06_L2,hdf,
+MYD09GQ,hdf,
+MYD09GA,hdf,
+GPM_2ADPR,hdf5,
+OLCIS3A_L1_EFR,zip,not found
+MCD43A3,hdf,
+M2I3NVAER,nc4,exact not found
+ATL03_ESI,h5,
+S5P_L2__NO2____HIR,nc4,
+AST_L1T,tif/hdf,
+AIRICRAD,hdf,exact not found
+OLCIS3B_L1_EFR,zip,exact not found
+MCD43A4,hdf,
